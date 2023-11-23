@@ -10,11 +10,11 @@
     <a href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://johanlib.github.io/interactive-rating-component/">View Demo</a>
+    <a href="https://johanlib.github.io/Interactive-rating-component/">View Demo</a>
     ·
-    <a href="https://github.com/johanLib/interactive-rating-component/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/johanLib/Interactive-rating-component/issues" target="_blank">Report Bug</a>
     ·
-    <a href="https://github.com/johanLib/interactive-rating-component/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/johanLib/Interactive-rating-component/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -44,7 +44,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 <h2 align="center">Links</h2>
 
 - Solution URL: [Interactive rating component | Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-SuEaFXGVPv)
-- Live Site URL: [https://johanlib.github.io/interactive-rating-component/](https://johanlib.github.io/interactive-rating-component/)
+- Live Site URL: [https://johanlib.github.io/Interactive-rating-component/](https://johanlib.github.io/Interactive-rating-component/)
 
 <br>
 
