@@ -43,7 +43,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Interactive rating component | Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-SuEaFXGVPv)
+- Solution URL: [Interactive rating component | Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-solution-5JPlrVzzgi)
 - Live Site URL: [https://johanlib.github.io/Interactive-rating-component/](https://johanlib.github.io/Interactive-rating-component/)
 
 <br>
