@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/svg" sizes="32x32" href="./images/favicon-32x32.svg">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>Interactive rating component</title>
+</head>
+<body>
+<main>
+  <div class="container">
+  <section class="card">
+  <!-- Rating state start -->
+  <div class="star"><img src="images\icon-star.svg" alt="rating star" style="width: 0.8rem; height: 0.8rem;"></div>
+  <h2>How did we do?</h2>
+
+  <p>Please let us know how we did with your support request. All feedback is appreciated
+  to help us improve our offering!</p>
+
+  <div class="feedback-rating">
+    <button class="number" onclick="handleRating(1)">1</button>
+    <button class="number" onclick="handleRating(2)">2</button>
+    <button class="number" onclick="handleRating(3)">3</button>
+    <button class="number" onclick="handleRating(4)">4</button>
+    <button class="number" onclick="handleRating(5)">5</button>
+  </div>
+
+  <button class="submit" id="submit" onclick="submitRating()">Submit</button>
+  <!-- Rating state end -->
+  </section>
+  <!-- Thank you state start -->
+
+  <section class="thank-you-section">
+    <div class="thank-you-container">
+      <img src="images\illustration-thank-you.svg" alt="thank you illustration">
+      <div class="rating-message">You selected <span id="rating"></span> out of 5</div>
+
+      <h2>Thank you!</h2>
+
+      <p>We appreciate you taking the time to give a rating. If you ever need more support,
+      don’t hesitate to get in touch!</p>
+    </div>
+  </section>
+  </div>
+</main>
+<script src="script.js"></script>
+</body>
+</html>
